@@ -1,0 +1,5 @@
+/Users/peeveepascual/VSProjects/TipCalculator/TipCalculator/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/peeveepascual/VSProjects/TipCalculator/TipCalculator/bin/Debug/TipCalculator.dll.mdb
+/Users/peeveepascual/VSProjects/TipCalculator/TipCalculator/bin/Debug/TipCalculator.dll
+/Users/peeveepascual/VSProjects/TipCalculator/TipCalculator/obj/Debug/TipCalculator.dll
+/Users/peeveepascual/VSProjects/TipCalculator/TipCalculator/obj/Debug/TipCalculator.dll.mdb
