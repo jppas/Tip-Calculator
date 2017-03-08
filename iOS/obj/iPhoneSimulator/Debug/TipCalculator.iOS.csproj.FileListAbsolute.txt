@@ -1,0 +1,13 @@
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\VSProjects\Tip-Calculator\iOS\bin\iPhoneSimulator\Debug\TipCalculator.iOS.exe
+C:\VSProjects\Tip-Calculator\iOS\bin\iPhoneSimulator\Debug\TipCalculator.iOS.pdb
+C:\VSProjects\Tip-Calculator\iOS\bin\iPhoneSimulator\Debug\TipCalculator.dll
+C:\VSProjects\Tip-Calculator\iOS\bin\iPhoneSimulator\Debug\TipCalculator.pdb
+C:\VSProjects\Tip-Calculator\iOS\bin\iPhoneSimulator\Debug\TipCalculator.dll.mdb
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\TipCalculator.iOS.exe
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\TipCalculator.iOS.pdb
+C:\VSProjects\Tip-Calculator\iOS\obj\iPhoneSimulator\Debug\TipCalculator.iOS.exe.mdb
+C:\VSProjects\Tip-Calculator\iOS\bin\iPhoneSimulator\Debug\TipCalculator.iOS.exe.mdb

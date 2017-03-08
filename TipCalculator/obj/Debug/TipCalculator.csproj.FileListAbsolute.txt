@@ -1,0 +1,6 @@
+C:\VSProjects\Tip-Calculator\TipCalculator\bin\Debug\TipCalculator.dll
+C:\VSProjects\Tip-Calculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\VSProjects\Tip-Calculator\TipCalculator\obj\Debug\TipCalculator.dll
+C:\VSProjects\Tip-Calculator\TipCalculator\obj\Debug\TipCalculator.pdb
+C:\VSProjects\Tip-Calculator\TipCalculator\obj\Debug\TipCalculator.dll.mdb
+C:\VSProjects\Tip-Calculator\TipCalculator\bin\Debug\TipCalculator.dll.mdb
